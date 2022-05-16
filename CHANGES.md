@@ -1,5 +1,10 @@
 twilio-go changelog
 ====================
+[2022-05-18] Version 1.0.0-rc.0
+---------------------------
+- Release Candidate prep
+
+
 [2022-05-04] Version 0.25.0
 ---------------------------
 **Library - Feature**
